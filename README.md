@@ -6,7 +6,7 @@ This repository is an example of the RuleFit algorithm from the linked paper on 
 
 ## Contents
 
-+ Interpretable Regression with RuleFit (Jupyter Notebook)
++ Interpretable Regression with RuleFit.ipynb (Jupyter Notebook)
 + Artifacts
     + distribution_comparison.png
     + feature_importance.png
