@@ -12,6 +12,8 @@ This repository is an example of the RuleFit algorithm from the linked paper on 
     + feature_importance.png
     + linear_rule_fit_explained.png
     + grid_search_cv_results.png
+    + Sine_function_example.png
+    + linear_fit_step_function.png
     
 ## Links
 
