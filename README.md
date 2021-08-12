@@ -1,3 +1,6 @@
+<img src="">
+_Image created by author in "Interpretable Regression with RuleFit"_
+
 # interpretable-regression-example
 
 ## Description
