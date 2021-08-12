@@ -1,4 +1,5 @@
-<img src="">
+<img src="linear_rule_fit_explained.png">
+
 _Image created by author in "Interpretable Regression with RuleFit"_
 
 # interpretable-regression-example
